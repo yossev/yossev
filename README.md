@@ -15,7 +15,7 @@ $$\     $$\                                        $$$$$$\        $$\   $$\ $$\ 
                                                                                                                          
   -> 🌐 Portfolio : yossev.vercel.app
   -> 📨 Email: synthpyt@gmail.com
-
+  --------------------------------------------------------------------------------
   -> 🌱 Im Currently learning Web Development, Competitive Programming and Python.
   -> ⚙️ Working on Mastering Software Engineering Principals
   -> 🤝 Looking to collaborate on more C++ Projects

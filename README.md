@@ -13,7 +13,7 @@ $$\     $$\                                        $$$$$$\        $$\   $$\ $$\ 
 
 
                                                                                                                          
-  -> 🌐 Portfolio : yossev.vercel.app
+  -> 🌐 Portfolio : yossev.vercel.app 
   -> 📨 Email: synthpyt@gmail.com
   --------------------------------------------------------------------------------
   -> 🌱 Im Currently learning Web Development, Competitive Programming and Python.

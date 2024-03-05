@@ -19,7 +19,7 @@ $$\     $$\                                        $$$$$$\        $$\   $$\ $$\ 
   -> 🌱 Im Currently learning Web Development, Competitive Programming and Python.
   -> ⚙️ Working on Mastering Software Engineering Principals
   -> 🤝 Looking to collaborate on more C++ Projects
-  -> 🤔 Looking for help with Computer Graphics and Game Dev                                                                                                                        
+  -> 🤔 Looking for help with Computer Graphics and AI                                                                                                                       
                                                                                                                             
 ```
 

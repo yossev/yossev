@@ -20,7 +20,7 @@ $$\     $$\                                        $$$$$$\        $$\   $$\ $$\ 
   -> ⚙️ Working on Mastering Software Engineering Principals
   -> 🤝 Looking to collaborate on more C++ Projects
   -> 🤔 Looking for help with Computer Graphics and AI                                                                                                                       
-                                                                                                                            
+                                                                                                                          
 ```
 
 # 💻 Tech Stack:

@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=03F700&random=false&width=435&lines=%24+python+-c+%22print('Hello+World+!')%22)](https://git.io/typing-svg)
 ```python
 
 

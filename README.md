@@ -17,7 +17,7 @@ $$\     $$\                                        $$$$$$\        $$\   $$\ $$\ 
   -> 🌐 Portfolio : https://yossef-portfolio.netlify.app/ 
   -> 📨 Email: synthpyt@gmail.com
   --------------------------------------------------------------------------------
-  -> 🌱 Im Currently learning Web Development, Competitive Programming and Python.
+  -> 🌱 Im Currently learning Software Development, Competitive Programming and Python.
   -> ⚙️ Working on Mastering Software Engineering Principals
   -> 🤝 Looking to collaborate on more C++ Projects
   -> 🤔 Looking for help with Computer Graphics and AI                                                                                                                       

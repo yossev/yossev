@@ -14,7 +14,7 @@ $$\     $$\                                        $$$$$$\        $$\   $$\ $$\ 
 
 
                                                                                                                          
-  -> 🌐 Portfolio : https://yossef-portfolio.netlify.app/ 
+  -> 🌐 Portfolio : https://yossev.github.io/NewPort/ 
   -> 📨 Email: synthpyt@gmail.com
   --------------------------------------------------------------------------------
   -> 🌱 Im Currently learning Software Development, Competitive Programming and Python.

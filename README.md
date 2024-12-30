@@ -14,8 +14,7 @@ $$\     $$\                                        $$$$$$\        $$\   $$\ $$\ 
 
 
                                                                                                                          
-  -> 🌐 Portfolio : https://yossev.github.io/NewPort/ 
-  -> 📨 Email: synthpyt@gmail.com
+  -> 📨 Email: yossef.hisham@proton.me
   --------------------------------------------------------------------------------
   -> 🌱 Im Currently learning Software Development, Competitive Programming and Python.
   -> ⚙️ Working on Mastering Software Engineering Principals
